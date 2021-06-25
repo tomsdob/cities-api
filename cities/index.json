@@ -1,0 +1,345 @@
+{
+  "lv": {
+    "lv": [
+      {
+        "name": "Riga"
+      },
+      {
+        "name": "Daugavpils"
+      },
+      {
+        "name": "Liepāja"
+      },
+      {
+        "name": "Jelgava"
+      },
+      {
+        "name": "Jūrmala"
+      },
+      {
+        "name": "Ventspils"
+      },
+      {
+        "name": "Rēzekne"
+      },
+      {
+        "name": "Valmiera"
+      },
+      {
+        "name": "Ogre"
+      },
+      {
+        "name": "Jēkabpils"
+      },
+      {
+        "name": "Tukums"
+      },
+      {
+        "name": "Salaspils"
+      },
+      {
+        "name": "Cēsis"
+      },
+      {
+        "name": "Sigulda"
+      },
+      {
+        "name": "Kuldīga"
+      },
+      {
+        "name": "Olaine"
+      },
+      {
+        "name": "Saldus"
+      },
+      {
+        "name": "Bauska"
+      },
+      {
+        "name": "Dobele"
+      },
+      {
+        "name": "Talsi"
+      },
+      {
+        "name": "Ludza"
+      },
+      {
+        "name": "Krāslava"
+      },
+      {
+        "name": "Aizkraukle"
+      },
+      {
+        "name": "Gulbene"
+      },
+      {
+        "name": "Līvāni"
+      },
+      {
+        "name": "Limbaži"
+      },
+      {
+        "name": "Madona"
+      },
+      {
+        "name": "Alūksne"
+      },
+      {
+        "name": "Ikšķile"
+      },
+      {
+        "name": "Preiļi"
+      },
+      {
+        "name": "Balvi"
+      },
+      {
+        "name": "Lielvārde"
+      },
+      {
+        "name": "Smiltene"
+      },
+      {
+        "name": "Valka"
+      },
+      {
+        "name": "Aizpute"
+      },
+      {
+        "name": "Baldone"
+      },
+      {
+        "name": "Kandava"
+      },
+      {
+        "name": "Grobiņa"
+      },
+      {
+        "name": "Pļaviņas"
+      },
+      {
+        "name": "Viļāni"
+      },
+      {
+        "name": "Rūjiena"
+      },
+      {
+        "name": "Koknese"
+      },
+      {
+        "name": "Saulkrasti"
+      },
+      {
+        "name": "Brocēni"
+      },
+      {
+        "name": "Salacgrīva"
+      },
+      {
+        "name": "Ilūkste"
+      },
+      {
+        "name": "Auce"
+      },
+      {
+        "name": "Priekule"
+      },
+      {
+        "name": "Ķegums"
+      },
+      {
+        "name": "Dagda"
+      },
+      {
+        "name": "Kārsava"
+      },
+      {
+        "name": "Skrunda"
+      },
+      {
+        "name": "Jaunjelgava"
+      },
+      {
+        "name": "Varakļāni"
+      },
+      {
+        "name": "Lubāna"
+      },
+      {
+        "name": "Viesīte"
+      },
+      {
+        "name": "Zilupe"
+      },
+      {
+        "name": "Cesvaine"
+      },
+      {
+        "name": "Viļaka"
+      },
+      {
+        "name": "Mazsalaca"
+      },
+      {
+        "name": "Aloja"
+      },
+      {
+        "name": "Strenči"
+      },
+      {
+        "name": "Aknīste"
+      },
+      {
+        "name": "Pāvilosta"
+      },
+      {
+        "name": "Līgatne"
+      },
+      {
+        "name": "Ape"
+      },
+      {
+        "name": "Ulbroka"
+      },
+      {
+        "name": "Mārupe"
+      },
+      {
+        "name": "Carnikava"
+      },
+      {
+        "name": "Ķekava"
+      },
+      {
+        "name": "Inčukalns"
+      },
+      {
+        "name": "Ādaži"
+      },
+      {
+        "name": "Ozolnieki"
+      },
+      {
+        "name": "Garkalne"
+      },
+      {
+        "name": "Piņķi"
+      },
+      {
+        "name": "Skrīveri"
+      },
+      {
+        "name": "Iecava"
+      },
+      {
+        "name": "Priekuļi"
+      },
+      {
+        "name": "Roja"
+      },
+      {
+        "name": "Ropaži"
+      },
+      {
+        "name": "Smārde"
+      },
+      {
+        "name": "Pilsrundāle"
+      },
+      {
+        "name": "Mērsrags"
+      },
+      {
+        "name": "Tērvete"
+      },
+      {
+        "name": "Mālpils"
+      },
+      {
+        "name": "Ragana"
+      },
+      {
+        "name": "Sala"
+      },
+      {
+        "name": "Kocēni"
+      },
+      {
+        "name": "Jaunpils"
+      },
+      {
+        "name": "Rauna"
+      },
+      {
+        "name": "Burtnieki"
+      },
+      {
+        "name": "Mūrmuiža"
+      },
+      {
+        "name": "Aglona"
+      },
+      {
+        "name": "Nīca"
+      },
+      {
+        "name": "Vecumnieki"
+      },
+      {
+        "name": "Loja"
+      },
+      {
+        "name": "Lieģi"
+      },
+      {
+        "name": "Jaunpiebalga"
+      },
+      {
+        "name": "Riebiņi"
+      },
+      {
+        "name": "Vaiņode"
+      },
+      {
+        "name": "Stalbe"
+      },
+      {
+        "name": "Ērgļi"
+      },
+      {
+        "name": "Vecpiebalga"
+      },
+      {
+        "name": "Drabeši"
+      },
+      {
+        "name": "Alsunga"
+      },
+      {
+        "name": "Vecvārkava"
+      },
+      {
+        "name": "Naukšēni"
+      },
+      {
+        "name": "Baltinava"
+      },
+      {
+        "name": "Dundaga"
+      },
+      {
+        "name": "Nereta"
+      },
+      {
+        "name": "Cibla"
+      },
+      {
+        "name": "Rugāji"
+      },
+      {
+        "name": "Rucava"
+      }
+    ]
+  }
+}
