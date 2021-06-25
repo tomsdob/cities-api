@@ -44,7 +44,10 @@ export default function Index() {
             </thead>
             <tbody className="text-sm">
               {Object.keys(citiesJson).map((country) => (
-                <tr className="border divide-x dark:border-gray-800 dark:divide-gray-800">
+                <tr
+                  className="border divide-x dark:border-gray-800 dark:divide-gray-800"
+                  key={country}
+                >
                   <td className="px-3 py-2 uppercase" key={country}>
                     {country}
                   </td>
