@@ -3,6 +3,7 @@ import { useRouter } from "next/router";
 
 export default function IndexHead() {
   const router = useRouter();
+
   return (
     <Head>
       <meta charset="UTF-8" />

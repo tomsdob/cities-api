@@ -1,6 +1,8 @@
 import IndexHead from "../components/IndexHead";
 
 export default function Index() {
+  const citiesJson = require("../cities/index.json");
+
   return (
     <div className="font-sans antialiased text-gray-800 dark:text-white">
       <IndexHead />
@@ -41,10 +43,23 @@ export default function Index() {
               </tr>
             </thead>
             <tbody className="text-sm">
-              <tr className="border divide-x dark:border-gray-800 dark:divide-gray-800">
-                <td className="px-3 py-2">LV</td>
-                <td className="px-3 py-2">lv</td>
-              </tr>
+              {Object.keys(citiesJson).map((country) => (
+                <tr className="border divide-x dark:border-gray-800 dark:divide-gray-800">
+                  <td className="px-3 py-2 uppercase" key="country">
+                    {country}
+                  </td>
+                  <td className="px-3 py-2" key="language">
+                    {Object.keys(citiesJson[country]).map((language, i) => (
+                      <span>
+                        {language}
+                        {i < Object.keys(citiesJson[country]).length - 1
+                          ? ", "
+                          : ""}
+                      </span>
+                    ))}
+                  </td>
+                </tr>
+              ))}
             </tbody>
           </table>
         </div>
