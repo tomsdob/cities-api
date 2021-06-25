@@ -45,12 +45,12 @@ export default function Index() {
             <tbody className="text-sm">
               {Object.keys(citiesJson).map((country) => (
                 <tr className="border divide-x dark:border-gray-800 dark:divide-gray-800">
-                  <td className="px-3 py-2 uppercase" key="country">
+                  <td className="px-3 py-2 uppercase" key={country}>
                     {country}
                   </td>
                   <td className="px-3 py-2" key="language">
                     {Object.keys(citiesJson[country]).map((language, i) => (
-                      <span>
+                      <span key={language}>
                         {language}
                         {i < Object.keys(citiesJson[country]).length - 1
                           ? ", "
