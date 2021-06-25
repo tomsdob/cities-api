@@ -34,14 +34,14 @@ export default function Index() {
             GET /api/lv/lv
           </code>
           <table className="table-auto">
-            <thead class="text-sm text-gray-500 dark:text-gray-400">
+            <thead className="text-sm text-gray-500 dark:text-gray-400">
               <tr>
                 <td className="px-3 py-2">Country</td>
                 <td className="px-3 py-2">Languages</td>
               </tr>
             </thead>
-            <tbody class="text-sm">
-              <tr class="border divide-x dark:border-gray-800 dark:divide-gray-800">
+            <tbody className="text-sm">
+              <tr className="border divide-x dark:border-gray-800 dark:divide-gray-800">
                 <td className="px-3 py-2">LV</td>
                 <td className="px-3 py-2">lv</td>
               </tr>
